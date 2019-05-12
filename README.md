@@ -1,3 +1,3 @@
 # Portfolio
 
-![PortfolioPic](assets/images/profile.png)
+![PortfolioPic](assets/images/project.png)
